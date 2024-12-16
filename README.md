@@ -1,2 +1,2 @@
-# toeic
-TOEIC攻略用ツール
+# toeic_word
+TOEIC英単語攻略用ツール
